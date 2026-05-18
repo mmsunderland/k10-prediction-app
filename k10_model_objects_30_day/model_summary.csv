@@ -1,0 +1,17 @@
+feature,value,metric,outcome
+intercept,-5.698359699957069,log-odds coefficient,D_MDE30
+k10_sum,0.19569098705811824,log-odds coefficient,D_MDE30
+intercept,-5.744878892280216,log-odds coefficient,D_GAD30
+k10_sum,0.17691513910753337,log-odds coefficient,D_GAD30
+intercept,-6.188033969118916,log-odds coefficient,D_PDS30
+k10_sum,0.15414553438581907,log-odds coefficient,D_PDS30
+intercept,-4.993780090277833,log-odds coefficient,D_PTS30
+k10_sum,0.13197463057576483,log-odds coefficient,D_PTS30
+intercept,-4.27623818631884,log-odds coefficient,D_OCD30
+k10_sum,0.11002752486614902,log-odds coefficient,D_OCD30
+intercept,-6.425379370203397,log-odds coefficient,D_DYS30
+k10_sum,0.18347433439555746,log-odds coefficient,D_DYS30
+intercept,-7.976959025286216,log-odds coefficient,D_BP30
+k10_sum,0.17954568254549716,log-odds coefficient,D_BP30
+intercept,-4.723960939974411,log-odds coefficient,D_SO30
+k10_sum,0.15567242081083052,log-odds coefficient,D_SO30
