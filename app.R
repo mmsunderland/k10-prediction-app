@@ -5,7 +5,7 @@
 # ============================================================
 
 # ---- Packages -----------------------------------------------
-required_pkgs <- c("shiny", "ggplot2", "scales", "DT", "glmnet", "xgboost")
+required_pkgs <- c("shiny", "ggplot2", "scales", "DT")
 to_install <- required_pkgs[!sapply(required_pkgs, requireNamespace, quietly = TRUE)]
 if (length(to_install)) install.packages(to_install, repos = "https://cloud.r-project.org")
 
